@@ -9,7 +9,7 @@ Java Console for the user interface
 XAMPP server for local host and used to test before publishing remote server
 My SQL for the database
 # **Steps to follow:**
-Create the database table for Employees profiles using MySQL.
+1. Create the database table for Employees profiles using MySQL.
 Develop the user interface using Java with the following functionalities:
 Add a new employee profile
 View all employees profiles

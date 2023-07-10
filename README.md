@@ -28,7 +28,8 @@ This project helps to understand the basic CRUD operations in Java using MySQL a
 4. Executing the statement/query
 5. Closing the connection
 
-![image](https://github.com/JyothiYenduri/java-emp-jdbc-crud-/assets/120366268/b976a39f-7070-425c-9cad-e6104061f3c7)
+# **Code and Output of CRUD Console Java App**
+
 
 
 

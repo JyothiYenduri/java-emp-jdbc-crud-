@@ -21,7 +21,7 @@ To create a simple Java Console application to perform basic CRUD (Create, Read,
 # **Conclusion:**
 This project helps to understand the basic CRUD operations in Java using MySQL as the database and Java as the user interface. It provides a simple solution for managing employees profiles in an efficient and user-friendly way.
 
-**JDBC CRUD operations concepts by using the five steps :**
+# **JDBC CRUD operations concepts by using the five steps :**
 1. Load/Registering the driver
 2. Establishing the connection
 3. Creating the statement

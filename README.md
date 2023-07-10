@@ -4,7 +4,7 @@
 # **Objective:**
 To create a simple Java Console application to perform basic CRUD (Create, Read, Update, Delete) operations for Employees profiles.
 # **Technologies Used:**
-1. Cor Java 
+1. Core Java 
 2. eclipse IDE for the user interface
 3. MySQL Commandline for local host and used to test before publishing remote server
 4. My SQL for the database

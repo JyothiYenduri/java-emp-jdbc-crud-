@@ -29,7 +29,8 @@ This project helps to understand the basic CRUD operations in Java using MySQL a
 5. Closing the connection
 
 # **Code and Output of CRUD Console Java App**
-"C:\Users\SESPL\Videos\Captures\eclipse-workspace - Eclipse IDE 2023-07-10 11-54-08.mp4"
+
+
 
 
 

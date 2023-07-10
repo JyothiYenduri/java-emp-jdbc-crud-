@@ -3,12 +3,12 @@
 # **Project Name: Employee CRUD Operations in Java**
 # **Objective:**
 To create a simple Java Console application to perform basic CRUD (Create, Read, Update, Delete) operations for Employees profiles.
-**Technologies Used:**
+# **Technologies Used:**
 Java 8
 Java Console for the user interface
 XAMPP server for local host and used to test before publishing remote server
 My SQL for the database
-**Steps to follow:**
+# **Steps to follow:**
 Create the database table for Employees profiles using MySQL.
 Develop the user interface using Java with the following functionalities:
 Add a new employee profile
@@ -18,7 +18,7 @@ Delete employee profile
 Implement the database connectivity using Java JDBC API.
 Perform the CRUD operations using MySQL query statements.
 Test the application by adding, viewing, updating and deleting employees profiles.
-**Conclusion:**
+# **Conclusion:**
 This project helps to understand the basic CRUD operations in Java using MySQL as the database and Java as the user interface. It provides a simple solution for managing employees profiles in an efficient and user-friendly way.
 
 **JDBC CRUD operations concepts by using the five steps :**
